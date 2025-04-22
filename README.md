@@ -31,7 +31,7 @@ spring-boot-lab
 │           └── com
 │               └── example
 │                   └── SpringBootLabApplicationTests.java
-|                    |__HelloWorldTest.java
+|                   └── HelloWorldTest.java
 ├── pom.xml
 └── README.md
 ```
