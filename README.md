@@ -1,4 +1,4 @@
-# Spring Boot Lab
+# Student Management System with Spring Boot
 
 ## Overview
 This project is a Spring Boot application designed to demonstrate the use of Spring Data JPA with an H2 database. It includes basic CRUD operations for managing student entities and showcases the use of Lombok for reducing boilerplate code.
