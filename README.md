@@ -38,7 +38,7 @@ spring-boot-lab
 ## Setup Instructions
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Trunks-Pham/students-management-spring-boot.git
    cd spring-boot-lab
    ```
 
@@ -67,6 +67,3 @@ This project uses the following dependencies:
 
 ## Testing
 Unit tests are included in the `src/test/java/com/example/SpringBootLabApplicationTests.java` file to ensure the application functions as expected.
-
-## License
-This project is licensed under the MIT License.
