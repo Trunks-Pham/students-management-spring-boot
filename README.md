@@ -64,6 +64,7 @@ This project uses the following dependencies:
 - Spring Boot Starter
 - Spring Data JPA
 - H2 Database
+- MySQL Database  
 - Lombok
 
 ## Testing
